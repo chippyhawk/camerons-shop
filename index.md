@@ -1,58 +1,23 @@
 ## Welcome to cam's print store.
-<!DOCTYPE html>
-<html>
-<head>
-<style type="text/css">
-  html {
-  display: flex;
-  height:100vh;
-  overflow: hidden;
-  justify-content: center;
-  align-items: center;
-  flex-direction:column;
-  background: #222;
-}
+### Twisted 6 sided vase, cost:$2 time:4hours  
+![image](https://user-images.githubusercontent.com/101137109/159545181-83a81a91-4f64-4bad-82e0-e7c4d0933110.png)
+### Low poly charmander, cost:$1 time:1.1hours
+<img src="https://cdn.thingiverse.com/renders/54/56/88/52/b8/5f93d171eda372352539af3ee37006e0_preview_card.jpg" alt="Make Card"/>
+### Low poly bulbasaur, cost:$1 time:1.0hours
+<img src="https://cdn.thingiverse.com/renders/81/4e/7c/0b/7c/bulbasaur_low_poly_pokemon_flowalistik_preview_card.jpg" alt="Make Card"/>
+### Low poly fox, cost:$1 time:1.0hours
+<img src="https://cdn.thingiverse.com/renders/af/a4/a6/31/90/IMG_5035_preview_card.JPG" alt="Make Card"/>
 
-body::before, body::after {
-  font-weight: bold;
-  font-family: 'SF Mono', 'Courier New', Courier, monospace;
-  font-size: 42px;
-  color: #ff4473;
-}
+#MORE COMING SOON.
+## To order send an email to camegray27@midlandps.org or send a message to 989-294-4759
+## email or message template
+   >item
+   >cost
+   >time
+## TO pay drop off the money required and tape it to a paper with your name on it.
+## locker 0125.
 
-head { 
-  display: block;
-  background-image: url(https://c.tenor.com/x8v1oNUOmg4AAAAM/rickroll-roll.gif);
-  height:20rem;
-  width:20rem;
-  background-repeat: no-repeat;
-  background-size: cover;
-  border: 5px solid #fff;
-  border-radius: 10px;
-  border-style: dashed;
-}
 
-body::before {
-  display: inline-block;
-  padding-top: 3rem;
-  content: "Never gonna give you up...";
-}
 
-body::after {
-  margin-left: 16px;
-  display: inline;
-  content: "i";
-  background: #ff4473;
-  animation: blink 1s infinite;
-}
 
-@keyframes blink {
-  from {
-    opacity: 1;
-  }
 
-  to {
-    opacity: 0;
-  }
-}
-  
