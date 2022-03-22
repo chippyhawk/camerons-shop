@@ -1,4 +1,4 @@
-# Welcome to cam's print store.
+# PRINTS.....
 ## Low poly bulbasaur
 ###### This print takes 1.0 hours and costs $1
 <img src="https://cdn.thingiverse.com/renders/81/4e/7c/0b/7c/bulbasaur_low_poly_pokemon_flowalistik_preview_card.jpg" alt="Make Card"/>![image](https://user-images.githubusercontent.com/101137109/159551354-7df57952-f7fc-47b6-9467-3c3fdf3fb4c9.png)
