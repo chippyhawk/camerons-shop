@@ -1,3 +1,6 @@
+## BEFORE EMAILING SCROLL DOWN TO THE BOTTOM FOR INFO ON INSTRUCTIONS OF ORDERING.
+
+
 # PRINTS.....
 ## Low poly bulbasaur made by flowastik
 ###### This print takes 1.0 hours and costs $1
