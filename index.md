@@ -33,6 +33,6 @@
 ### time
 
 ### to pay drop off the money and put it in a envelope with your name on it
-if you dont want to text or email just put the what item you want along with time and price.
-if you dont want to pay in advance just slip a envelope in locker 0125 and put the name of the print on there with your name and I will get it to you the next day and you can pay.
+## if you dont want to text or email just put the what item you want along with time and price.
+## if you dont want to pay in advance just slip a envelope in locker 0125 and put the name of the print on there with your name and I will get it to you the next day and you can pay.
 ### locker 0125.
