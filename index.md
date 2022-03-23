@@ -1,4 +1,5 @@
 # **PRINTS**
+###### **TO ORDER SEND A TEXT TO 989-294-4759 or an email to camegray27@midlandps.org of what you want**
 ## Low poly bulbasaur made by flowastik
 ###### This print takes 1.0 hours and costs $4
 <img src="https://cdn.thingiverse.com/renders/81/4e/7c/0b/7c/bulbasaur_low_poly_pokemon_flowalistik_preview_card.jpg" alt="Make Card" alt="Make Card"/>!
